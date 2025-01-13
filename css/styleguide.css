@@ -1,0 +1,58 @@
+:root { 
+  --black: #000000;
+  --heavy-metal: #2a4929;
+  --ivory: #fffff0;
+  --leather-jacket: #284727;
+  --leather-jacket-2: #244323;
+  --lunar-green: #2e4a3f;
+ 
+  --font-size-l: 20px;
+  --font-size-m: 18px;
+  --font-size-s: 17.5px;
+  --font-size-xl: 30px;
+  --font-size-xs: 14px;
+  --font-size-xxl: 35px;
+  --font-size-xxs: 12px;
+ 
+  --font-family-cinzel: "Cinzel", Helvetica;
+  --font-family-good_times-regular: "Good Times-Regular", Helvetica;
+  --font-family-lora: "Lora", Helvetica;
+  --font-family-melinda_script-regular: "Melinda Script-Regular", Helvetica;
+  --font-family-monofett: "Monofett", Helvetica;
+  --font-family-playfair_display: "Playfair Display", Helvetica;
+  --font-family-playfair_display_sc: "Playfair Display SC", Helvetica;
+  --font-family-raleway: "Raleway", Helvetica;
+  --font-family-source_code_pro: "Source Code Pro", Helvetica;
+  --font-family-special_elite: "Special Elite", Helvetica;
+}
+.goodtimes-regular-normal-leather-jacket-12px {
+  color: var(--leather-jacket);
+  font-family: var(--font-family-good_times-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.goodtimes-regular-normal-lunar-green-12px {
+  color: var(--lunar-green);
+  font-family: var(--font-family-good_times-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lora-normal-leather-jacket-18px {
+  color: var(--leather-jacket-2);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-bold-leather-jacket-18px {
+  color: var(--leather-jacket-2);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
