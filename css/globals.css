@@ -10,6 +10,10 @@
   src: url("../fonts/good times rg.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: "melinda";
+  src: url("../fonts/Melinda script.ttf") format("truetype");
+}
 
 .screen a {
   display: contents;
