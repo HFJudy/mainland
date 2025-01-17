@@ -375,6 +375,7 @@ transform: translate(0,0);
 .mainland .welcome-to.animate-enter45 {
   animation: animate-enter45-frames 2.50s ease-in-out 0.00s 1 normal forwards;
   opacity: 0;
+  font-family: melinda;
   transform: translate(-1.57vw, 0);
 }
 
