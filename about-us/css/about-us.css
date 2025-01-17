@@ -115,7 +115,6 @@ transform: translate(0,0);
 
 .about-us .title {
   color: #3e5832;
-  cursor: pointer;
   font-family: var(--font-family-khand);
   font-size: 3.55vw;
   font-weight: 700;
