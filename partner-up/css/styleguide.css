@@ -1,0 +1,56 @@
+:root { 
+  --black: #000000;
+  --dairy-cream: #f7e3ba;
+  --ivory: #fffff0;
+  --leather-jacket: #284727;
+  --leather-jacket-2: #264424;
+  --lunar-green: #2e4a3f;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 20px;
+  --font-size-s: 14px;
+  --font-size-xl: 25px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 35px;
+  --font-size-xxs: 10px;
+ 
+  --font-family-abril_fatface: "Abril Fatface", Helvetica;
+  --font-family-good_times-regular: "Good Times-Regular", Helvetica;
+  --font-family-lora: "Lora", Helvetica;
+  --font-family-monofett: "Monofett", Helvetica;
+  --font-family-mulish: "Mulish", Helvetica;
+  --font-family-playfair_display_sc: "Playfair Display SC", Helvetica;
+  --font-family-source_code_pro: "Source Code Pro", Helvetica;
+  --font-family-special_elite: "Special Elite", Helvetica;
+}
+.goodtimes-regular-normal-leather-jacket-12px {
+  color: var(--leather-jacket);
+  font-family: var(--font-family-good_times-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.lora-normal-leather-jacket-20px {
+  color: var(--leather-jacket-2);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplaysc-bold-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-playfair_display_sc);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.goodtimes-regular-normal-lunar-green-12px {
+  color: var(--lunar-green);
+  font-family: var(--font-family-good_times-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}

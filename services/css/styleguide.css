@@ -1,0 +1,85 @@
+:root { 
+  --black: #000000;
+  --dairy-cream: #f7e3ba;
+  --everglade: #234223;
+  --ivory: #fffff0;
+  --leather-jacket: #284727;
+  --leather-jacket-2: #264525;
+  --lunar-green: #2e4a3f;
+  --tom-thumb: #3e5832;
+ 
+  --font-size-l: 23px;
+  --font-size-m: 18px;
+  --font-size-s: 14px;
+  --font-size-xl: 24px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 25px;
+  --font-size-xxs: 10px;
+ 
+  --font-family-abril_fatface: "Abril Fatface", Helvetica;
+  --font-family-good_times-regular: "Good Times-Regular", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-khand: "Khand", Helvetica;
+  --font-family-lora: "Lora", Helvetica;
+  --font-family-monofett: "Monofett", Helvetica;
+  --font-family-mulish: "Mulish", Helvetica;
+  --font-family-playfair_display: "Playfair Display", Helvetica;
+  --font-family-playfair_display_sc: "Playfair Display SC", Helvetica;
+  --font-family-source_code_pro: "Source Code Pro", Helvetica;
+  --font-family-special_elite: "Special Elite", Helvetica;
+}
+.goodtimes-regular-normal-leather-jacket-12px {
+  color: var(--leather-jacket);
+  font-family: var(--font-family-good_times-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.goodtimes-regular-normal-lunar-green-12px {
+  color: var(--lunar-green);
+  font-family: var(--font-family-good_times-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplay-extra-bold-tom-thumb-24px {
+  color: var(--tom-thumb);
+  font-family: var(--font-family-playfair_display);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 800;
+}
+
+.lora-normal-tom-thumb-18px {
+  color: var(--tom-thumb);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.playfairdisplaysc-bold-everglade-24px {
+  color: var(--everglade);
+  font-family: var(--font-family-playfair_display_sc);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.lora-normal-leather-jacket-18px {
+  color: var(--leather-jacket);
+  font-family: var(--font-family-lora);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.sourcecodepro-semi-bold-dairy-cream-14px {
+  color: var(--dairy-cream);
+  font-family: var(--font-family-source_code_pro);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
